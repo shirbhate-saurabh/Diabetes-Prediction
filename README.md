@@ -1,4 +1,5 @@
 # Diabetes-Prediction
+![Python 3.8.1](https://img.shields.io/badge/Python-3.6-brightred.svg)
 
 * In this project we are going to predict the dibetes of the person on the basis of some pre-requisite measures.
 

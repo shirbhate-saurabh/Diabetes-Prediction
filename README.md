@@ -1,5 +1,5 @@
 # Diabetes-Prediction
-![Python 3.8.1](https://img.shields.io/badge/Python-3.8.1-red.svg) (https://img.shields.io/badge/Library-Scikit_Learn-orange.svg)
+![Python 3.8.1](https://img.shields.io/badge/Python-3.8.1-red.svg) ![scikit-learn](https://img.shields.io/badge/Library-Scikit_Learn-orange.svg)
 
 
 * In this project we are going to predict the dibetes of the person on the basis of some pre-requisite measures.

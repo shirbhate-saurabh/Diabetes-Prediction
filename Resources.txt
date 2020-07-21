@@ -1,0 +1,2 @@
+#For badges in ReadMe File
+https://img.shields.io/badge/<LABEL>-<MESSAGE>-<COLOR>
